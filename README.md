@@ -1,5 +1,5 @@
 # Eight years of AutoML: categorisation, review and trends
-# _Supplementary material for systematic literature review (2023)_
+This is _Supplementary Material_ for systematic literature review on AutoML (2023)
 
 ## Abstract
 
