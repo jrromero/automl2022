@@ -11,7 +11,7 @@ The following document describes in detail the systematic review protocol define
 
 The following file compiles the raw outcomes of applying the aforementioned search strings, as indicated in the review protocol.
 
-PDF file (162 KB)
+[PDF file][https://github.com/jrromero/automl2022/blob/main/AutoML_data_extraction_results.xlsx] (162 KB)
 
 ### Papers returned from queries to databases
 
