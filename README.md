@@ -13,7 +13,7 @@ The following document describes in detail the systematic review protocol define
 
 The following file compiles the raw outcomes of applying the aforementioned search strings, as indicated in the review protocol.
 
-[PDF file](https://github.com/jrromero/automl2022/blob/main/AutoML_data_extraction_results.xlsx) (162 KB)
+[PDF file](https://github.com/jrromero/automl2022/blob/main/AutoML_review-protocol.pdf) (162 KB)
 
 ### Papers returned from queries to databases
 
@@ -25,7 +25,7 @@ From the list of papers returned by the search engines, a set of inclusion and e
 
 The following document compiles and summarises the results collected from the data extraction forms.
 
-[Excel file](https://github.com/jrromero/automl2022/blob/main/AutoML_review-protocol.pdf) (989 KB)
+[Excel file](https://github.com/jrromero/automl2022/blob/main/AutoML_data_extraction_results.xlsx) (989 KB)
 
 ### Results of the data extraction forms
 
